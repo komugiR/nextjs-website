@@ -46,7 +46,7 @@ export default function Home() {
           className={styles.popButton}
         >
         <div className={styles.buttonBg}></div>
-        <span className={styles.buttonText}>GitHub を見る →</span>
+        <span className={styles.buttonText}>GitHub</span>
         </a>
       </section>
     </main>
